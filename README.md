@@ -3,7 +3,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" alt="Welcome GIF" />
 </p>
+<
+<!-- ✍️ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mohamed+Raafat!;" alt="Typing Animation" />
+</p>
 
+---
 # 👋 Hi, I'm Mohamed Raafat
 🎓 Computer Science Student | 💻 Front-End Developer in Progress  
 
@@ -54,6 +60,12 @@ My goal is to become a skilled **Front-End Developer** and contribute to impactf
 - 📧 **Email:** elrefo2007@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/mohamed-raaft-محمد-رأفت-90969437a](https://www.linkedin.com/in/mohamed-raaft-%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D8%A3%D9%81%D8%AA-90969437a)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400px" alt="Keep Coding GIF" />
+</p>
 
+<p align="center">
+  🚀 <b>Keep learning, keep coding, and never stop creating!</b> ✨
+</p>
 
 
