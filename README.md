@@ -1,4 +1,8 @@
 ##                                          Welcome to mohamed raafat's profile 👋
+<!-- 👋 Welcome GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" alt="Welcome GIF" />
+</p>
 
 # 👋 Hi, I'm Mohamed Raafat
 🎓 Computer Science Student | 💻 Front-End Developer in Progress  
@@ -6,6 +10,9 @@
 ---
 
 ## 👨‍💻 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding GIF" />
+</p>
 Hi! I'm **Mohamed Raafat**, a passionate Computer Science student who loves building creative and interactive web experiences.  
 I enjoy learning new technologies, solving real-world problems, and continuously improving my coding skills.  
 My goal is to become a skilled **Front-End Developer** and contribute to impactful projects.  
